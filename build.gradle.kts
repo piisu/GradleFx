@@ -14,7 +14,6 @@ repositories {
 }
 
 dependencies {
-    implementation(kotlin("stdlib-jdk8"))
     implementation("commons-lang:commons-lang:2.6")
     implementation("commons-io:commons-io:2.4")
     testImplementation("org.spockframework:spock-core:2.0-M2-groovy-2.5")
